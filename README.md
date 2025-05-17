@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m currently working on Emergency call analysis system<br>I’m currently learning Machine learning , Deep learning<br>How to reach me kolliparamithra84@gmail.com
+Hi there! I'm Mithra, a passionate BTech student and full-stack developer who loves building impactful tech solutions.  
+I enjoy working with web technologies, AI, and cloud platforms like Azure.  
+Currently building **Mano Mitra**, an AI-powered mental health companion.  
+Always curious, always learning — let’s innovate together!
+
 
 
 ## 🌐 Socials:
